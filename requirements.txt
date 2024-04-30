@@ -1,0 +1,8 @@
+astropy==5.0.4
+matplotlib==3.5.1
+numpy==1.21.5
+pandas==1.4.2
+plotly==5.6.0
+scipy==1.7.3
+streamlit==1.33.0
+tqdm==4.64.0
